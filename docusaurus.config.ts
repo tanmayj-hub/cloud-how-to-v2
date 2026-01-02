@@ -16,9 +16,9 @@ const config: Config = {
 
   // GitHub Pages deployment settings
   url: 'https://tanmayj-hub.github.io',
-  baseUrl: '/cloud-how-to/',
+  baseUrl: '/cloud-how-to-v2/',
   organizationName: 'tanmayj-hub',
-  projectName: 'cloud-how-to',
+  projectName: 'cloud-how-to-v2',
 
   // Allow drafts / missing links during early authoring
   onBrokenLinks: 'warn',
@@ -35,7 +35,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/tanmayj-hub/cloud-how-to/blob/main/',
+          editUrl: 'https://github.com/tanmayj-hub/cloud-how-to-v2/blob/main/',
           showLastUpdateTime: true,
           showLastUpdateAuthor: false,
         },
@@ -65,7 +65,7 @@ const config: Config = {
           label: 'Runbooks',
         },
         {
-          href: 'https://github.com/tanmayj-hub/cloud-how-to',
+          href: 'https://github.com/tanmayj-hub/cloud-how-to-v2',
           label: 'GitHub',
           position: 'right',
         },
@@ -93,7 +93,7 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {label: 'GitHub', href: 'https://github.com/tanmayj-hub/cloud-how-to'},
+            {label: 'GitHub', href: 'https://github.com/tanmayj-hub/cloud-how-to-v2'},
           ],
         },
       ],
