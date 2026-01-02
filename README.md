@@ -2,7 +2,7 @@
 
 A Docusaurus-powered documentation site for **runbooks and mini-guides** covering AWS and cloud tasks.
 
-- Live site: https://tanmayj-hub.github.io/cloud-how-to/
+- Live site: https://tanmayj-hub.github.io/cloud-how-to-v2/
 - Docs entry point: `docs/intro.md`
 
 ## Local setup
