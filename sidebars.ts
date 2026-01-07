@@ -32,6 +32,20 @@ const sidebars: SidebarsConfig = {
         },
       ],
     },
+    {
+      type: 'category',
+      label: 'GitHub',
+      collapsed: false,
+      items: [
+        {
+          type: 'category',
+          label: 'GitHub Pages',
+          link: {type: 'doc', id: 'github-pages/index'},
+          items: ['github-pages/static-site-ci-cd'],
+        },
+      ],
+    },
+
   ],
 };
 
