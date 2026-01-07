@@ -1,4 +1,3 @@
-````md
 # Cloud How-To (Docusaurus + GitHub Pages)
 
 A Docusaurus-powered documentation site for runbooks and mini-guides covering AWS and cloud tasks.
@@ -310,6 +309,3 @@ That button is a link to GitHub’s editor using `editUrl`.
 ## License
 
 MIT
-
-```
-```
